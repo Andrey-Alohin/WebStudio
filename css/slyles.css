@@ -772,7 +772,7 @@ button {
     }
     .bottom-section>.container{
         align-items: baseline;
-        padding: 0;
+        padding: 0px 15px;
         gap: 0;
 
     }
